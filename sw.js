@@ -13,7 +13,7 @@ self.addEventListener('install', event => {
 			'./css/site.css',
 			'./header.html', 	
 			'./footer.html', 
-			'offline-page.html' 
+			'./offline-page.html' 
 		])) 
 	);
 });
